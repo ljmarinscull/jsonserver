@@ -1,19 +1,21 @@
 {
-  "agronomic_recipes":{
-  "recipes":[{
-      "number":"11111",
-      "pdfUrl":"http://www.orimi.com/pdf-test.pdf",
-      "nombre_campo": "Al campo",
-      "remarks":"Hola mundo",
-      "amountToWithdraw":"12",
-      "date":"01/01/2021 08:30:00"
+  "latienda_products":{
+  "products":[{
+      "id":"11111",
+      "images":["http://www.orimi.com/pdf-test.pdf","",""]
+      "name": "Memorias Samsungs",
+      "price": 50.0,
+      "oldPrice":100.0,
+      "stars": 4,
+      "seller":"Amazon"
     },{
-      "number":"22222",
-      "pdfUrl":"http://www.africau.edu/images/default/sample.pdf",
-      "nombre_campo": "Al campo un dia",
-      "remarks":"Hola mundo 100%",
-      "amountToWithdraw":"5",
-      "date":"05/01/2021 01:30:00"
+      "id":"22222",
+      "images":["http://www.orimi.com/pdf-test.pdf","",""]
+      "name": "Cepillos de dientes eletricos",
+      "price": 10.0,
+      "oldPrice":12.0,
+      "stars": 5,
+      "seller":"Amazon"
     }
     ]
   }
