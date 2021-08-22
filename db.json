@@ -1,5 +1,5 @@
 {
-  "latienda_products":{
+
   "products":[{
       "id":"11111",
       "images":["https://drive.google.com/file/d/1uR8eOlsvHvZExd9sIFYRnwLld0-UZMXs","https://drive.google.com/file/d/1cSZceSEHf00-HVeK_QCjmWwPoMBnNYMe","https://drive.google.com/file/d/1LW0UzYQY-8UWE8m1ABgQB7XETI188YeR"],
@@ -18,5 +18,5 @@
       "seller":"Amazon"
     }
     ]
-  }
+  
 }
