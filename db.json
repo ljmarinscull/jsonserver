@@ -2,7 +2,7 @@
   "latienda_products":{
   "products":[{
       "id":"11111",
-      "images":["http://www.orimi.com/pdf-test.pdf","",""]
+      "images":["http://www.orimi.com/pdf-test.pdf","",""],
       "name": "Memorias Samsungs",
       "price": 50.0,
       "oldPrice":100.0,
@@ -10,7 +10,7 @@
       "seller":"Amazon"
     },{
       "id":"22222",
-      "images":["http://www.orimi.com/pdf-test.pdf","",""]
+      "images":["http://www.orimi.com/pdf-test.pdf","",""],
       "name": "Cepillos de dientes eletricos",
       "price": 10.0,
       "oldPrice":12.0,
