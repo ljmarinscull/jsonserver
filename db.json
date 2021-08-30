@@ -4,6 +4,7 @@
       "id":"11111",
       "images":["https://image.shutterstock.com/z/stock-vector-abstract-of-sea-scenery-in-a-spilled-glass-with-beach-equipment-and-water-splash-creative-design-1942475002.jpg","https://drive.google.com/file/d/1cSZceSEHf00-HVeK_QCjmWwPoMBnNYMe","https://drive.google.com/file/d/1LW0UzYQY-8UWE8m1ABgQB7XETI188YeR"],
       "name": "Memorias Samsungs",
+      "description": "Hola description",
       "price": 50.0,
       "oldPrice":100.0,
       "stars": 4,
@@ -14,6 +15,7 @@
       "name": "Cepillos de dientes eletricos",
       "price": 10.0,
       "oldPrice":12.0,
+      "description": "Hola description",
       "stars": 5,
       "seller":"Amazon"
     }
